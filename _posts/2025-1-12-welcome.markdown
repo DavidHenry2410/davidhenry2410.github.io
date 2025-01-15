@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome"
+date:   2025-1-12 00:00:00 -0500
+excerpt: Welcome to my blog!
+---
+Firstly, I'd like to thank you for visting my blog! I have been telling myself I would get this created and some articles written up for quite a while, but I'm finally doing it. I have no formal guidelines on what I'll be posting, as my interests and expertise stretch across quite a few topics. That being said, it is safe to assume I will be posting about technology, cybersecurity, programming, and how all three intermingle. I have found plenty of other blogs online that have helped me tremendously in growing my skills, so I am happy to try to give back to the world. 
+
+Thanks for visiting, and if you have any questions or concerns, feel free to reach out to my via one of my contact methods in the site header.
