@@ -2,7 +2,7 @@
 layout: post
 title:  "RedNMX Part 1"
 description: Security flaws for first responders. Unauthenticated access.
-date:   2025-1-12 14:00:00 -0500
+date:   2025-1-15 23:00:00 -0500
 categories: Security 
 excerpt: How a simple project to get mobile application data onto my computer resulted in the discovery of multiple severe security flaws in an app used by first responders across the country. 
 ---
@@ -453,6 +453,6 @@ So if we put all the pieces together now, we could get unauthenticated access to
 
 
 # Final Notes
-I think this should be a good place to end this post since there is plenty more to cover including dangerous password reset API endpoints, the decompiling of the application, and more! I would like to also note, that I have passed along all information posted here to the vendor, Alpine Software, and even got approval from their CTO to make this blog post. At the time of writting, these bugs are still present in the application; however, I have done my best to responsibly diclose this to the vendor and they have not made an effort to get it resolved for one reason or another. 
+I think this should be a good place to end this post since there is plenty more to cover including dangerous password reset API endpoints, the decompiling of the application, and more! I would like to also note, I have passed along all information posted here to the vendor, Alpine Software, and even got approval from their CTO to make this blog post. At the time of writting, these bugs are still present in the application; however, I have done my best to responsibly disclose this to the vendor and they have not made an effort to get it resolved for one reason or another. 
 
 That all being said, I hope you appreciated the first of the series!
