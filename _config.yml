@@ -24,8 +24,7 @@ texture:
 
   # generate social links in footer
   social_links:
-    #twitter: davidhenry2410
-    github:  davidhenry2410
+    #github:  
     linkedIn: in/david-henry-9713aa1b2
     mail: David@davidsserver.com
     #rss: rss
