@@ -2,7 +2,7 @@
 layout: post
 title:  "RedNMX Part 1"
 description: Security flaws for first responders. Unauthenticated access.
-date:   2025-1-15 23:00:00 -0500
+date:   2025-1-14 23:00:00 -0500
 categories: Security 
 excerpt: How a simple project to get mobile application data onto my computer resulted in the discovery of multiple severe security flaws in an app used by first responders across the country. 
 ---
